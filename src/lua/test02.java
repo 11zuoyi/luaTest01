@@ -7,4 +7,8 @@ package lua;
  */
 public class test02 {
     private int a;
+    private double d;
+    public static void method(){
+        System.out.println("测试idea连接git");
+    }
 }
